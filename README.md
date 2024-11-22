@@ -1,2 +1,2 @@
 # DavisGroup
-This is for creating a website for Davis.
+Creating a website for Davis.
